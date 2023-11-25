@@ -1,0 +1,32 @@
+#include<stdio.h>
+#include<math.h>
+int main(){
+int i, n;
+double num[i];
+printf("program to calculate the average,\n variance and standard variance\n");
+printf("enter the number of value you need\n");
+scanf("%d", &n);
+printf("enter the numbers\n");
+for(i=0;i<n;i++){
+scanf("%lf", &num[i]);
+
+}
+double sum = 0;
+for(int j=0;j<=n;j++){
+sum = sum + num[j];
+}
+
+printf("sum = %.2lf\n", sum);
+double a = sum/n;
+printf("average = %.2lf\n", a);
+double c = 0;
+for(int j=0;j<n;j++){
+c = c + pow((num[j]-a), 2);
+
+}
+c = c / (n-1);
+printf("variance = %.2lf\n", c);
+printf("standard variance = %.2lf\n", sqrt(c));
+}
+
+  
