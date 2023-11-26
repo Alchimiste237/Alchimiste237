@@ -1,0 +1,26 @@
+/*Here's a C program that returns the position of `i` where `T[i]` is the beginning of a consecutive series of zeros in the array `T`:*/
+#include<stdio.h>
+
+int getConsecutiveSeriesStart(int T[], int size) {
+    int i;
+    for (i = 0; i < size; i++) {
+        if (T[i] == 0 && (i == 0 || T[i-1] == 1))
+            return i;
+    }
+
+    return -1;  // No consecutive series of zeros found
+}
+
+int main() {
+    int T[] = {1, 1, 1, 0, 1, 1, 0, 0, 0, 0};
+    int size = sizeof(T) / sizeof(T[0]);
+
+    int start = getConsecutiveSeriesStart(T, size);
+    if (start != -1) {
+        printf("Consecutive series of zeros start at position: %d\n", start);
+    } else {
+        printf("No consecutive series of zeros found.\n");
+    }
+
+    return 0;
+}
