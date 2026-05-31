@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Alchimiste237
-- 👀 I’m interested in ...Full stack development 
-- 🌱 I’m currently learning ...c++, python, html, css and Javascript 
-- 💞️ I’m looking to collaborate on ...web development 
-- 📫 How to reach me ...through my email address alchimistechris@gmail.com 
+# 👋 Bonjour, je suis chris !
 
-<!---
-Alchimiste237/Alchimiste237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤖 **ML & AI Engineer en construction**
+
+Je documente publiquement mon parcours vers le Machine Learning tout en partageant mes apprentissages avec la communauté tech africaine.
+
+## 🔧 Stack actuelle
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+## 🚀 Ce que je construis
+- 🧠 Projets ML appliqués au contexte africain
+- 🌍 Ressources IA en français pour l'Afrique
+- 📊 Data science sur des datasets locaux
+
+## 📈 Actuellement en train d'apprendre
+- Deep Learning avec TensorFlow
+- NLP & traitement du texte
+- Déploiement de modèles avec Streamlit
+
+## 🤝 Me retrouver
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](VOTRE_LIEN)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook)](VOTRE_LIEN)
