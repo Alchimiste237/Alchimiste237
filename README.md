@@ -20,5 +20,4 @@ Je documente publiquement mon parcours vers le Machine Learning tout en partagea
 - Déploiement de modèles avec Streamlit
 
 ## 🤝 Me retrouver
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](VOTRE_LIEN)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook)](VOTRE_LIEN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/chris-alchimiste-73a80b2b0)
